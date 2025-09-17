@@ -31,8 +31,8 @@ export function Header() {
         {/* Top bar */}
         <div className="flex items-center justify-between py-4">
           {/* Logo */}
-          <Link href="/" className="text-2xl font-heading font-black text-primary">
-            StyleHub
+          <Link href="/" className="text-2xl font-heading font-black text-black">
+            StyleZ
           </Link>
 
           {/* Desktop Navigation */}

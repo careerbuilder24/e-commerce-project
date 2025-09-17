@@ -115,6 +115,9 @@ export default function HomePage() {
                 style={{ backgroundImage: `url(${img})` }}
               />
             ))}
+
+
+            
             {/* Overlay */}
             <div className="absolute inset-0 bg-black/40" />
           </div>

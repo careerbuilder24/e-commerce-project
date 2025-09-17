@@ -1,5 +1,5 @@
-import { executeQuery } from "./db"
-import { getCurrentUser } from "./auth"
+// import { executeQuery } from "./db"
+// import { getCurrentUser } from "./auth"
 
 export interface Vendor {
   id: number
