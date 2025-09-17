@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="text-lg font-heading font-black text-primary">StyleHub</h3>
+            <h3 className="text-lg font-heading font-black text-primary">StyleZ</h3>
             <p className="text-muted-foreground text-sm">
               Discover unique fashion from independent vendors worldwide. Quality, style, and authenticity in every
               piece.
