@@ -32,7 +32,7 @@ export function Header() {
         <div className="flex items-center justify-between py-4">
           {/* Logo */}
           <Link href="/" className="text-2xl font-heading font-black text-black">
-            StyleZ
+            Armania
           </Link>
 
           {/* Desktop Navigation */}
